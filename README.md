@@ -26,6 +26,13 @@ Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi say
 - Tips Menanam: Panduan praktis tentang cara menanam sayuran di kebun atau pot.
 - Inspirasi Memasak: Ide-ide kreatif untuk menyajikan sayuran dalam hidangan lezat.
 
+- ## 🛠️ Dibuat Dengan
+
+- Bahasa Pemrograman: JavaScript.
+- Pengembangan Web: HTML, Tailwind CSS, React.
+- Alat Pengembangan: Visual Studio Code, Git
+- Kerangka Kerja: Node.js.
+
 Terima kasih atas kunjungan Anda dan kesabaran Anda selama proses pengembangan. Saya berharap dapat memberikan wawasan yang lebih baik tentang sayuran dalam waktu dekat! 🌿
 
 <div align="center">
