@@ -8,7 +8,7 @@ import { DaftarNavigasiBar } from "../utils/Data";
 const NavigasiBar = () => {
   const [buka, aturBuka] = useState(false);
   return (
-    <div className="max-w-[1520] mx-auto flex justify-between items-center p-4">
+    <div className="max-w-[1520px] mx-auto flex justify-between items-center p-4">
       <div className="flex items-center font-semibold">
         <div onClick={() => aturBuka(!buka)} className="cursor-pointer">
           <AiOutlineMenu size={25} />
