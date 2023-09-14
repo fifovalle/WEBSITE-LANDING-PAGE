@@ -3,6 +3,7 @@ import NavigasiBar from "./components/NavigasiBar";
 import Unggulan from "./components/Unggulan";
 import Pengiriman from "./components/Pengiriman";
 import ProdukTeratas from "./components/ProdukTeratas";
+import Sayuran from "./components/Sayuran";
 
 function Aplikasi() {
   return (
@@ -11,6 +12,7 @@ function Aplikasi() {
       <Unggulan />
       <Pengiriman />
       <ProdukTeratas />
+      <Sayuran />
     </div>
   );
 }

@@ -42,7 +42,7 @@ const Teratas = () => {
           {DaftarTeratas.map((daftar) => {
             return (
               <SplideSlide key={daftar.id}>
-                <div className="rounded-3xl relative">
+                <div className="rounded-3xl relative hover:scale-105 ease-out duration-300">
                   <div className="absolute w-full h-full bg-black/50 rounded-3xl text-white">
                     <p className="px-2 pt-4 font-bold text-2xl">
                       {daftar.nama}
