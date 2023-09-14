@@ -7,6 +7,12 @@ import { MdHelp, MdOutlineFavorite } from "react-icons/md";
 import Unggulan1 from "../assets/img/1.jpg";
 import Unggulan2 from "../assets/img/2.jpg";
 import Unggulan3 from "../assets/img/3.jpg";
+import Bayam from "../assets/img/bayam.jpg";
+import Cabe from "../assets/img/cabe.jpg";
+import Selada from "../assets/img/selada.jpg";
+import Jahe from "../assets/img/jahe.jpg";
+import Tomat from "../assets/img/tomat.jpg";
+import Kentang from "../assets/img/kentang.jpg";
 
 export const DaftarNavigasiBar = [
   {
@@ -67,5 +73,44 @@ export const FotoUnggulan = [
   {
     id: 2,
     foto: Unggulan3,
+  },
+];
+
+export const DaftarTeratas = [
+  {
+    id: 0,
+    nama: "Bayam",
+    harga: "Rp 1.500",
+    foto: Bayam,
+  },
+  {
+    id: 1,
+    nama: "Cabe",
+    harga: "Rp 500",
+    foto: Cabe,
+  },
+  {
+    id: 2,
+    nama: "Selada",
+    harga: "Rp 1.000",
+    foto: Selada,
+  },
+  {
+    id: 3,
+    nama: "Jahe",
+    harga: "Rp 500",
+    foto: Jahe,
+  },
+  {
+    id: 4,
+    nama: "Tomat",
+    harga: "Rp 2.000",
+    foto: Tomat,
+  },
+  {
+    id: 5,
+    nama: "Ketang",
+    harga: "Rp 1.000",
+    foto: Kentang,
   },
 ];

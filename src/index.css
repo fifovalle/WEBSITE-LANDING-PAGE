@@ -7,3 +7,19 @@
         @apply border border-black rounded-xl px-5 py-1
     }
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+    background: linear-gradient(to bottom, #00C853, #fff);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #00C853;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #00944F;
+    border-radius: 10px;
+}
