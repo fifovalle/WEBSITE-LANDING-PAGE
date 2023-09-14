@@ -17,7 +17,7 @@ const NavigasiBar = () => {
           Dapur<span className="font-bold">Ku</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]">
-          <p className="bg-orange-600 text-white rounded-full p-2 font-bold">
+          <p className=" bg-green-500 text-white rounded-full p-2 font-bold">
             Gratis
           </p>
           <p className="p-2 font-bold">Ongkir</p>
@@ -31,8 +31,8 @@ const NavigasiBar = () => {
           placeholder="Cari Sayuran"
         />
       </div>
-      <button className="bg-orange-600 text-white font-bold hidden md:flex items-center py-2 rounded-full">
-        <BsFillCartFill size={20} /> Keranjang
+      <button className="bg-green-500 text-white font-bold hidden md:flex items-center py-2 rounded-full hover:bg-green-600">
+        <BsFillCartFill className="mr-1" size={20} /> Keranjang
       </button>
       {buka ? (
         <div className="bg-black/60 fixed w-full h-screen z-10 top-0 left-0"></div>
@@ -53,7 +53,7 @@ const NavigasiBar = () => {
           size={25}
         />
         <h2 className="text-2xl p-4">
-          Dapur<span className="text-orange-600 font-bold">Ku</span>
+          Dapur<span className="text-green-500 font-bold">Ku</span>
         </h2>
         <nav>
           <ul className="flex flex-col p-4 text-gray-900">
@@ -61,7 +61,7 @@ const NavigasiBar = () => {
               return (
                 <li
                   key={daftar.id}
-                  className="text-xl py-4 flex hover:text-orange-600"
+                  className="text-xl py-4 flex hover:text-green-500"
                 >
                   {daftar.ikon}
                   {daftar.nama}
