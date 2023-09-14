@@ -28,7 +28,7 @@ const Teratas = () => {
   return (
     <>
       <h1 className="text-green-500 font-bold text-2xl text-center py-2">
-        Teratas
+        Produk Teratas
       </h1>
       <div className="lg:flex max-w-[1520px] mx-auto py-4 px-4">
         <Splide

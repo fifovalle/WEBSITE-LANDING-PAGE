@@ -7,7 +7,7 @@ const Pengiriman = () => {
   return (
     <div className="w-full bg-white py-16 px-4">
       <h3 className="text-green-500 font-bold text-2xl text-center">
-        Aplikasi Pengiriman Cepat
+        Aplikasi DapurKu
       </h3>
       <div className="max-w-[1340px] w-full py-4 px-4 mx-auto grid md:grid-cols-2">
         <img
