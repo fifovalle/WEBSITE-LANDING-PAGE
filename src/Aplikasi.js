@@ -6,6 +6,7 @@ import ProdukTeratas from "./components/ProdukTeratas";
 import Sayuran from "./components/Sayuran";
 import Sponsor from "./components/Sponsor";
 import Buletin from "./components/Buletin";
+import Penutup from "./components/Penutup";
 
 function Aplikasi() {
   return (
@@ -17,6 +18,7 @@ function Aplikasi() {
       <Sayuran />
       <Sponsor />
       <Buletin />
+      <Penutup />
     </div>
   );
 }

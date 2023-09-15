@@ -1,7 +1,13 @@
 // FILE REACT
 import { BsPerson } from "react-icons/bs";
 import { TbTruckReturn } from "react-icons/tb";
-import { FaGoogleWallet } from "react-icons/fa";
+import {
+  FaGoogleWallet,
+  FaFacebookSquare,
+  FaInstagramSquare,
+  FaTwitterSquare,
+  FaWhatsappSquare,
+} from "react-icons/fa";
 import { MdHelp, MdOutlineFavorite } from "react-icons/md";
 // FILE SAYA
 import Unggulan1 from "../assets/img/1.jpg";
@@ -259,5 +265,36 @@ export const DaftarSponsor = [
     id: 3,
     nama: "Sponsor 4",
     Logo: Logo4,
+  },
+];
+
+export const DaftarSosialMedia = [
+  {
+    id: 0,
+    nama: "Facebook",
+    Icon: (
+      <FaFacebookSquare className="hover:scale-105 duration-300" size={30} />
+    ),
+  },
+  {
+    id: 1,
+    nama: "Instagram",
+    Icon: (
+      <FaInstagramSquare className="hover:scale-105 duration-300" size={30} />
+    ),
+  },
+  {
+    id: 2,
+    nama: "Twitter",
+    Icon: (
+      <FaTwitterSquare className="hover:scale-105 duration-300" size={30} />
+    ),
+  },
+  {
+    id: 3,
+    nama: "Whatsapp",
+    Icon: (
+      <FaWhatsappSquare className="hover:scale-105 duration-300" size={30} />
+    ),
   },
 ];

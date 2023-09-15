@@ -10,6 +10,7 @@ Selamat datang di Website Saya yang Sedang Dalam Pengembangan! 🌟
 ![Screenshot 2023-09-15 084523](https://github.com/fifovalle/WEBSITE-LANDING-PAGE/assets/90078068/084dfa2a-b7a7-4187-98ec-a54a726faf67)
 ![Screenshot 2023-09-15 100322](https://github.com/fifovalle/WEBSITE-LANDING-PAGE/assets/90078068/abfb63a8-8dac-40e5-8bf8-ba21d5d71739)
 ![Screenshot 2023-09-15 111510](https://github.com/fifovalle/WEBSITE-LANDING-PAGE/assets/90078068/7a24594b-76cb-4029-b70c-eea054fb52f6)
+![Screenshot 2023-09-15 152746](https://github.com/fifovalle/WEBSITE-LANDING-PAGE/assets/90078068/6951ff72-b9d4-4a1f-895d-56ab84585137)
 
 Saya dengan antusias sedang bekerja keras untuk memberikan Anda pengetahuan mendalam tentang sayuran dan bagaimana Anda dapat menikmati manfaatnya dalam hidup sehari-hari. Dari informasi nutrisi hingga resep lezat, Saya berusaha agar website ini menjadi sumber inspirasi dan informasi yang berguna bagi Anda.
 
