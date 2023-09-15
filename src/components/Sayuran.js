@@ -26,10 +26,10 @@ const Sayuran = () => {
           <button
             onClick={() => saring(tombol.nama)}
             key={tombol.id}
-            className={`m-1 border-green-600 text-white ${
+            className={`m-1 ${
               tombol.nama === tombolAktif
-                ? "bg-white text-[#4CAF50] border-green-600"
-                : "bg-green-600 hover:bg-white hover:text-green-600 hover:border-green-600"
+                ? "bg-white text-green-600 border-green-600"
+                : "text-white bg-green-600 hover:bg-white hover:text-green-600 hover:border-green-600"
             }`}
           >
             {tombol.nama}
