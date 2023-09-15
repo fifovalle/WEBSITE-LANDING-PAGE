@@ -28,7 +28,7 @@ const Sayuran = () => {
             key={tombol.id}
             className={`m-1 border-green-600 text-white ${
               tombol.nama === tombolAktif
-                ? "bg-white text-green-600 border-green-600"
+                ? "bg-white text-[#4CAF50] border-green-600"
                 : "bg-green-600 hover:bg-white hover:text-green-600 hover:border-green-600"
             }`}
           >
@@ -48,7 +48,7 @@ const Sayuran = () => {
               alt={sayuran.nama}
             />
             <div className="relative py-2 px-4">
-              <div className="bg-green-500 h-[50px] w-[150px] rounded-full -mt-10 text-white py-4 px-2 border-8  absolute right-0 font-bold">
+              <div className="bg-green-500 h-[50px] w-[160px] rounded-full -mt-10 text-white py-4 px-2 border-8  absolute right-0 font-bold">
                 <p className="absolute top-[4px] left-[50%] translate-x-[-50%]">
                   {sayuran.harga}
                 </p>
@@ -58,7 +58,7 @@ const Sayuran = () => {
             <div className="pl-2 py-4 -mt-5">
               <p className="relative text-indigo-500">
                 Lihat Selengkapnya
-                <ArrowSmRightIcon className="absolute w-5 left-[40%] top-[15%] bottom-5" />
+                <ArrowSmRightIcon className="absolute w-5 left-[45%] top-[10%] bottom-5" />
               </p>
             </div>
           </div>

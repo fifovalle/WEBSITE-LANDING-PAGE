@@ -31,7 +31,7 @@ const NavigasiBar = () => {
           placeholder="Cari Sayuran"
         />
       </div>
-      <button className="bg-green-500 text-white font-bold hidden md:flex items-center py-2 rounded-full hover:bg-green-600">
+      <button className="bg-green-500 text-white font-bold hidden md:flex items-center py-2 rounded-full hover:bg-green-600 duration-300">
         <BsFillCartFill className="mr-1" size={20} /> Keranjang
       </button>
       {buka ? (

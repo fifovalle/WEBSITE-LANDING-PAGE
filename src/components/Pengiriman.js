@@ -33,7 +33,7 @@ const Pengiriman = () => {
             quae sequi, commodi cum facere id enim adipisci illo quo nemo. Odio
             voluptatem aliquid necessitatibus sunt rerum aperiam autem harum?
           </p>
-          <button className="bg-green-500 text-white w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 hover:bg-green-600">
+          <button className="bg-green-500 text-white w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 hover:bg-green-600 duration-300">
             Mulai
           </button>
         </div>
