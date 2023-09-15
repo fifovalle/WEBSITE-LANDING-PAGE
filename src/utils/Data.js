@@ -19,6 +19,10 @@ import Terong from "../assets/img/terong.jpg";
 import BawangMerah from "../assets/img/bawang-merah.jpg";
 import KembangKol from "../assets/img/kembang-kol.jpg";
 import BawangPutih from "../assets/img/bawang-putih.jpg";
+import Logo1 from "../assets/img/logo1.jpg";
+import Logo2 from "../assets/img/logo2.jpg";
+import Logo3 from "../assets/img/logo3.jpg";
+import Logo4 from "../assets/img/logo4.jpg";
 
 export const DaftarNavigasiBar = [
   {
@@ -232,5 +236,28 @@ export const DaftarSayuran = [
     harga: "Rp 5.00",
     kategori: "Sayuran Buah",
     foto: Terong,
+  },
+];
+
+export const DaftarSponsor = [
+  {
+    id: 0,
+    nama: "Sponsor 1",
+    Logo: Logo1,
+  },
+  {
+    id: 1,
+    nama: "Sponsor 2",
+    Logo: Logo2,
+  },
+  {
+    id: 2,
+    nama: "Sponsor 3",
+    Logo: Logo3,
+  },
+  {
+    id: 3,
+    nama: "Sponsor 4",
+    Logo: Logo4,
   },
 ];
